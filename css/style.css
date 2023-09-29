@@ -168,6 +168,12 @@ label {
 .repo a {
   color: #a0b7f8;
   text-decoration: none;
+  transition: .3s;
+}
+
+.repo a:hover{
+  color: white;
+ 
 }
 
 
